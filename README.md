@@ -1,6 +1,6 @@
 # Calculate-Due-Date
 
-A 'DifferentCalculators' nevű osztály 'CalculateDueDate' metódusa két paramétert vár: egy dátumot (ezt string értékként, és dd/MM/yyy hh:mmAM - vagy PM az AM helyett - formában, 
+A 'DateCalculatorForIssue' nevű osztály 'CalculateDueDate' metódusa két paramétert vár: egy dátumot (ezt string értékként, és dd/MM/yyy hh:mmAM - vagy PM az AM helyett - formában, 
 tehát pl. "01/07/2021 09:15AM", míg második paraméterként egy számértéket, ami időbeli óramennyiséget jelent.
 Ha pl. egy webfejlesztő cégnél dolgozunk, és valamelyik ügyfél jelent a cég számára egy weboldalbeli problémát, akkor utána mi rögzíthetjük a 'CalculateDueDate' függvény
 első paramétereként, hogy mikortól kelljen elkezdeni foglalkozni az adott problémával (azaz a dátumot, mégpedig a fentebb említett formátumban), második paraméterként pedig 
