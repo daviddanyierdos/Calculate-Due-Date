@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\DifferentCalculators.exe
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\DifferentCalculators.deps.json
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\DifferentCalculators.runtimeconfig.json
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\DifferentCalculators.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\DifferentCalculators.dll
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\ref\DifferentCalculators.dll
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\bin\Debug\net5.0\DifferentCalculators.pdb
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.dll
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\ref\DifferentCalculators.dll
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.pdb
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.genruntimeconfig.cache
+C:\Users\Asus\source\repos\DifferentCalculators\DifferentCalculators\obj\Debug\net5.0\DifferentCalculators.csproj.AssemblyReference.cache
