@@ -8,3 +8,4 @@ az óraszámot, amennyi időbe szerintünk a probléma javítása telni fog, és
 javításnak. Fontos kritérium, hogy az első paraméterként megadott dátum csak munkaidőre vonatkozhat (a munkaidő 09:00 -tól 17:00 -ig értendő és csak hétköznapokra, és 12 órás 
 rendszert használva, tehát a hh:mm után szóköz nélkül írt AM / PM jelzi a délelőttöt / délutánt. A 'CalculateDueDate' függvény tehát ezek figyelembevételével kalkulálja a 
 határidőt. A programhoz írtam Unit Test -eket is.
+A program elkészítéséhez nem használtam semmilyen beépített idő- vagy dátumfüggvényt, ettől volt ez igazán izgalmas.
